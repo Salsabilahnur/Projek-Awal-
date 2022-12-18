@@ -116,7 +116,7 @@ class Autentifikasi extends CI_Controller
       'Nama Lengkap',
       'required',
       [
-        'required' => 'Nama Belum diis!!'
+        'required' => 'Nama Belum disi!!'
       ]
     );
 
